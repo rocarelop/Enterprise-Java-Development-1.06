@@ -1,0 +1,10 @@
+Employee{name='Rocio', email='rocioal@hotmail.com', department='engineering', salary=22000}
+Employee{name='Carlos', email='carloshm@hotmail.com', department='engineering', salary=24000}
+Employee{name='Ana', email='anapll@hotmail.com', department='psychology', salary=21000}
+Employee{name='Salud', email='saludlr@hotmail.com', department='administrative', salary=25000}
+Employee{name='Dama', email='damaah@hotmail.com', department='dog therapy', salary=40000}
+Employee{name='Jose Alberto', email='jaga@hotmail.com', department='nursing', salary=19000}
+Employee{name='Antonio Ruben', email='arga@hotmail.com', department='engineering', salary=20000}
+Employee{name='Francisco', email='fjaa@hotmail.com', department='administrative', salary=19500}
+Employee{name='Turco', email='turcoh@hotmail.com', department='dog therapy', salary=20000}
+Employee{name='Orion', email='orito@hotmail.com', department='dog therapy', salary=20000}
